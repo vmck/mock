@@ -2,4 +2,4 @@
 
 # Mock
 
-Mock docker image for vmck/vmck
+Mock docker image for [vmck](https://github.com/vmck/vmck)

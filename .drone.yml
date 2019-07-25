@@ -8,9 +8,6 @@ trigger:
   - push
   - tag
 
-depends_on:
-- test
-
 steps:
 - name: docker push branch ${DRONE_COMMIT_BRANCH}
   image: plugins/docker
